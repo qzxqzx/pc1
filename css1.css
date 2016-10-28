@@ -1,0 +1,549 @@
+.site-footer .footer-service {
+    padding: 27px 0px; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.site-footer .list-service {
+    margin: 0px; padding: 0px; list-style-type: none;
+}
+.site-footer .list-service li {
+    width: 19.8%; height: 25px; text-align: center; line-height: 25px; font-size: 16px; border-left-color: rgb(224, 224, 224); border-left-width: 1px; border-left-style: solid; float: left;
+}
+.site-footer .list-service li:first-child {
+    border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.site-footer .list-service .iconfont {
+    line-height: 24px; font-size: 24px; margin-right: 6px; vertical-align: -4px;
+}
+.site-footer .list-service a {
+    transition:color 0.2s; color: rgb(97, 97, 97); -webkit-transition: color .2s;
+}
+.site-footer .list-service a:hover {
+    color: rgb(255, 103, 0);
+}
+.site-footer .footer-links {
+    padding: 40px 0px;
+}
+.site-footer .footer-links .col-links {
+    margin: 0px; width: 160px; height: 112px; float: left;
+}
+.site-footer .footer-links .col-links dt {
+    margin: -1px 0px 26px; color: rgb(66, 66, 66); line-height: 1.25; font-size: 14px;
+}
+.site-footer .footer-links .col-links dd {
+    margin: 10px 0px 0px; font-size: 12px;
+}
+.site-footer .footer-links .col-links a {
+    color: rgb(117, 117, 117);
+}
+.site-footer .footer-links .col-links a:hover {
+    color: rgb(255, 103, 0);
+}
+.site-footer .footer-links .col-contact {
+    width: 251px; height: 112px; text-align: center; color: rgb(97, 97, 97); border-left-color: rgb(224, 224, 224); border-left-width: 1px; border-left-style: solid; float: right;
+}
+.site-footer .footer-links .col-contact p {
+    margin: 0px 0px 16px; font-size: 12px;
+}
+.site-footer .footer-links .col-contact .phone {
+    margin: 0px 0px 5px; color: rgb(255, 103, 0); line-height: 1; font-size: 22px;
+}
+.site-info {
+    background: rgb(250, 250, 250); padding: 30px 0px; font-size: 12px;
+}
+.site-info .logo {
+    background: url("../i/logo-footer.png?v2") no-repeat 50% 50%; width: 57px; height: 57px; margin-right: 10px; float: left;
+}
+.site-info .info-text {
+    color: rgb(176, 176, 176); float: left;
+}
+.site-info .info-text p {
+    margin: 0px; line-height: 18px;
+}
+.site-info .info-text a {
+    color: rgb(176, 176, 176);
+}
+.site-info .info-text a:hover {
+    color: rgb(255, 103, 0);
+}
+.site-info .info-text .sites a {
+    color: rgb(117, 117, 117);
+}
+.site-info .info-text .sites a:hover {
+    color: rgb(255, 103, 0);
+}
+.site-info .info-links {
+    margin: 4px 0px 0px; height: 28px; float: right; _display: inline;
+}
+.site-info .info-links img {
+    width: auto; height: 28px; margin-left: 7px;
+}
+.site-info .slogan {
+    background: url("../i/slogan2016.png") no-repeat center 0px; margin: 30px auto 0px; width: 267px; height: 19px; clear: both;
+}
+.site-mini-header {
+    background: rgb(255, 255, 255); color: rgb(176, 176, 176); font-size: 12px; border-bottom-color: rgb(255, 103, 0); border-bottom-width: 2px; border-bottom-style: solid;
+}
+.site-mini-header .header-logo {
+    width: 93px; margin-top: 26px;
+}
+.site-mini-header .logo {
+    width: 48px; height: 48px;
+}
+.site-mini-header .logo::before {
+    width: 48px; height: 48px;
+}
+.site-mini-header .logo::after {
+    width: 48px; height: 48px;
+}
+.site-mini-header .header-title {
+    margin-top: 26px; float: left;
+}
+.site-mini-header .header-title h2 {
+    margin: 0px;
+}
+.site-mini-header .header-title p {
+    margin: 0px;
+}
+.site-mini-header .header-title h2 {
+    color: rgb(66, 66, 66); line-height: 48px; font-size: 28px; font-weight: normal;
+}
+.site-mini-header .header-title h2 span {
+    color: rgb(255, 103, 0); margin-left: 10px;
+}
+.site-mini-header .has-more h2 {
+    line-height: 1; margin-bottom: 6px;
+}
+.site-mini-header .has-more p {
+    color: rgb(117, 117, 117); line-height: 1;
+}
+.site-mini-header .topbar-nav {
+    height: 40px; line-height: 40px; overflow: hidden; float: left; _zoom: 1;
+}
+.site-mini-header .topbar-cart {
+    height: 40px; float: right; position: relative; _display: inline;
+}
+.site-mini-header .topbar-info {
+    height: 40px; float: right; position: relative; _display: inline;
+}
+.site-mini-header .topbar-cart {
+    width: 115px; margin-left: 15px;
+}
+.site-mini-header .topbar-cart-filled .cart-mini {
+    background: rgb(255, 103, 0); color: rgb(255, 255, 255);
+}
+.site-mini-header .topbar-cart-active .cart-mini {
+    background: rgb(255, 255, 255); color: rgb(255, 103, 0);
+}
+.site-mini-header .topbar-info {
+    line-height: 40px;
+}
+.site-mini-header .topbar-info .link {
+    float: left;
+}
+.site-mini-header .topbar-info .user {
+    float: left;
+}
+.site-mini-header .topbar-info .message {
+    float: left;
+}
+.site-mini-header .topbar-info .sep {
+    float: left;
+}
+.site-mini-header .topbar-info .link {
+    padding: 0px 5px;
+}
+.site-mini-header .topbar-info .sep {
+    margin: 0px;
+}
+.site-mini-header .user {
+    padding: 0px; width: 110px; white-space: nowrap; position: relative;
+}
+.site-mini-header .user-name {
+    width: 120px; height: 40px; text-align: center; display: block; position: relative; z-index: 5;
+}
+.site-mini-header .user-name .name {
+    width: auto; overflow: hidden; vertical-align: text-bottom; display: inline-block; white-space: nowrap; -ms-text-overflow: ellipsis; max-width: 75px; _zoom: 1; _width: 75px;
+}
+.site-mini-header .user-name i {
+    line-height: 24px; font-size: 24px; vertical-align: 9px;
+}
+.site-mini-header .user-menu {
+    background: rgb(255, 255, 255); border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(224, 224, 224) rgb(224, 224, 224); margin: 0px; padding: 7px 0px; left: -1px; top: 40px; width: 120px; display: none; list-style-type: none; position: absolute; z-index: 3; box-shadow: 0px 2px 10px rgba(0,0,0,0.15); -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+.site-mini-header .user-menu a {
+    padding: 3px 30px; line-height: 2; display: block;
+}
+.site-mini-header .user-active a {
+    color: rgb(66, 66, 66);
+}
+.site-mini-header .user-active a:hover {
+    color: rgb(255, 103, 0);
+}
+.site-mini-header .user-active .user-name {
+    background: rgb(255, 255, 255);
+}
+.site-mini-header .user-active .user-menu a {
+    transition:0.2s; -webkit-transition: all .2s;
+}
+.site-mini-header .user-active .user-menu a:hover {
+    background-color: rgb(245, 245, 245);
+}
+.site-mini-header .message {
+    padding: 0px 10px;
+}
+.site-mini-header .message i {
+    color: rgb(229, 57, 53); font-style: normal; margin-left: 5px;
+}
+.site-mini-header .topbar-info {
+    margin-top: 30px;
+}
+.site-mini-header .topbar-info .sep {
+    color: rgb(224, 224, 224);
+}
+.site-mini-header a {
+    color: rgb(117, 117, 117);
+}
+.modal-weixin .modal-bd {
+    text-align: center;
+}
+.modal-globalSites .modal-bd {
+    text-align: center;
+}
+.modal-globalSites .modal-bd h3 {
+    margin: 0px; color: rgb(66, 66, 66); font-size: 32px;
+}
+.modal-globalSites .modal-bd .modal-globalSites-tips {
+    margin: 0px; font-size: 18px;
+}
+.modal-globalSites .modal-bd .modal-globalSites-links {
+    margin: 30px auto 0px; width: 480px;
+}
+.modal-globalSites .modal-bd .modal-globalSites-links a {
+    margin: 0px 20px 20px 0px; width: 140px; height: 40px; line-height: 40px; float: left; display: block; background-color: rgb(238, 238, 238); _display: inline;
+}
+.modal-globalSites .modal-bd .modal-globalSites-links a:hover {
+    color: rgb(255, 255, 255); background-color: rgb(255, 103, 0);
+}
+.xm-recommend ul {
+    list-style: none; padding: 0px; margin-top: 0px;
+}
+.xm-recommend li {
+    list-style: none; padding: 0px; margin-top: 0px;
+}
+.xm-recommend dl {
+    list-style: none; padding: 0px; margin-top: 0px;
+}
+.xm-recommend dt {
+    list-style: none; padding: 0px; margin-top: 0px;
+}
+.xm-recommend dd {
+    list-style: none; padding: 0px; margin-top: 0px;
+}
+.xm-recommend ul li {
+    height: 300px; text-align: center; margin-bottom: 14px; position: relative; background-color: rgb(255, 255, 255);
+}
+.xm-recommend ul li:hover {
+    z-index: 2;
+}
+.xm-recommend ul li:hover .dot {
+    box-shadow: 0px 15px 30px rgba(0,0,0,0.1); -webkit-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+.xm-recommend ul li .dot {
+    transition:box-shadow 0.2s linear; -webkit-transition: -webkit-box-shadow .2s linear;
+}
+.xm-recommend ul li.pager {
+    background-color: transparent;
+}
+.xm-recommend ul.xm-carousel-list li {
+    margin-right: 14px;
+}
+.xm-recommend dl {
+    padding: 0px 20px; margin-bottom: 0px;
+}
+.xm-recommend dl dt {
+    padding: 40px 0px 15px; height: 145px;
+}
+.xm-recommend dl dd {
+    margin-left: 0px;
+}
+.xm-recommend .xm-recommend-name {
+    height: 18px; overflow: hidden; margin-bottom: 10px; white-space: nowrap; -ms-text-overflow: ellipsis; _zoom: 1;
+}
+.xm-recommend .xm-recommend-name a {
+    color: rgb(51, 51, 51);
+}
+.xm-recommend .xm-recommend-price {
+    color: rgb(255, 103, 0); margin-bottom: 10px;
+}
+.xm-recommend .xm-recommend-tips {
+    color: rgb(117, 117, 117); position: relative;
+}
+.xm-recommend .xm-recommend-tips .btn {
+    left: 37px; top: 0px; width: 120px; display: none; position: absolute;
+}
+.xm-recommend .xm-recommend-notice {
+    transition:0.2s linear; left: 0px; top: 0px; width: 100%; position: absolute; z-index: 5; opacity: 0; transform: translate3d(0, -10px, 0); -webkit-transition: all .2s linear; -webkit-transform: translate3d(0, -10px, 0);
+}
+.xm-recommend .xm-recommend-notice .btn {
+    border-width: 0px;
+}
+.xm-recommend .xm-recommend-notice-active {
+    opacity: 1; transform: translate3d(0, 0, 0); -webkit-transform: translate3d(0, 0, 0);
+}
+.xm-recommend-title {
+    margin: 0px; height: 50px; color: rgb(117, 117, 117); font-size: 30px; font-weight: 400; border-top-color: rgb(224, 224, 224); border-top-width: 1px; border-top-style: solid; position: relative; -webkit-font-smoothing: antialiased;
+}
+.xm-recommend-title span {
+    left: 372px; top: -20px; width: 482px; height: 40px; text-align: center; line-height: 40px; display: block; position: absolute; background-color: rgb(245, 245, 245);
+}
+.modal-bigtap-queue {
+    width: 800px; height: 600px; margin-top: -300px; margin-left: -400px;
+}
+.modal-bigtap-queue .close {
+    padding: 0px 8px; width: auto; font-size: 12px;
+}
+.modal-bigtap-queue .modal-body {
+    padding: 0px; text-align: center;
+}
+.modal-bigtap-queue .con {
+    height: 141px; overflow: hidden; _zoom: 1;
+}
+.modal-bigtap-queue .title {
+    margin: 30px 0px 0px; color: rgb(66, 66, 66); font-size: 38px; font-weight: normal;
+}
+.modal-bigtap-queue .queue-tip-box {
+    margin: 0px 0px 55px; overflow: hidden; _zoom: 1;
+}
+.modal-bigtap-queue .queue-tip {
+    margin: 0px; color: rgb(102, 102, 102); font-size: 16px; display: none;
+}
+.modal-bigtap-queue .queue-posters {
+    height: 459px; overflow: hidden; position: relative; _zoom: 1;
+}
+.modal-bigtap-queue .queue-posters .poster {
+    transition:opacity 1s, transform 20s linear; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute; z-index: 1; opacity: 0; background-repeat: no-repeat; -webkit-transition: opacity 1s ease, -webkit-transform 20s linear;
+}
+.modal-bigtap-queue .queue-posters .poster-1 {
+    background-image: url("//c1.mifile.cn/f/i/16/base/bigtap-poster-1.jpg");
+}
+.modal-bigtap-queue .queue-posters .poster-2 {
+    background-image: url("//c1.mifile.cn/f/i/16/base/bigtap-poster-2.jpg");
+}
+.modal-bigtap-queue .queue-posters .poster-3 {
+    background-image: url("//c1.mifile.cn/f/i/16/base/bigtap-poster-3.jpg");
+}
+.modal-bigtap-queue .queue-posters .poster-4 {
+    background-image: url("//c1.mifile.cn/f/i/16/base/bigtap-poster-4.jpg");
+}
+.modal-bigtap-queue .queue-posters .poster-5 {
+    background-image: url("//c1.mifile.cn/f/i/16/base/bigtap-poster-5.jpg");
+}
+.modal-bigtap-queue .queue-posters .active {
+    opacity: 1; transform: scale(1.2); -webkit-transform: scale(1.2);
+}
+.modal-bigtap-queue .queue-animate {
+    position: relative;
+}
+.modal-bigtap-queue .animate-mask {
+    top: 0px; width: 200px; height: 100%; position: absolute;
+}
+.modal-bigtap-queue .animate-mask-left {
+    left: 0px; background-image: linear-gradient(to right, rgb(255, 255, 255) 20%, rgba(255, 255, 255, 0));
+}
+.modal-bigtap-queue .animate-mask-right {
+    right: 0px; background-image: linear-gradient(to left, rgb(255, 255, 255) 20%, rgba(255, 255, 255, 0));
+}
+.modal-bigtap-queue .mitu-walk {
+    background: url("//c1.mifile.cn/f/i/16/base/bigtap-mitu-queue-big.png") repeat-x 0px; margin: 0px auto; width: 594px; height: 270px;
+}
+.modal-bigtap-error {
+    width: 900px; height: 500px; margin-top: -250px; margin-left: -450px;
+}
+.modal-bigtap-error .modal-body {
+    background: url("//s1.mi.com/open/131101/images/mitu-2.png") no-repeat 5px 0px; padding: 140px 50px 0px 385px; height: 360px;
+}
+.modal-bigtap-error h3 {
+    margin: 0px; padding: 0px 0px 20px; color: rgb(51, 51, 51); line-height: 1; font-size: 32px;
+}
+.modal-bigtap-error .error-tip {
+    margin: 0px; color: rgb(102, 102, 102); line-height: 28px; padding-bottom: 40px; font-size: 16px;
+}
+.modal-bigtap-mode {
+    width: 700px; height: 460px; margin-top: -230px; margin-left: -350px;
+}
+.modal-bigtap-mode .close {
+    display: none;
+}
+.modal-bigtap-mode .modal-body {
+    text-align: center; padding-bottom: 0px;
+}
+.modal-bigtap-mode .modal-body .title {
+    margin: 0px 0px 20px; color: rgb(51, 51, 51); line-height: 1; font-size: 32px;
+}
+.modal-bigtap-mode .modal-body .desc {
+    margin: 0px; color: rgb(102, 102, 102);
+}
+.modal-bigtap-mode .modal-body .reload {
+    color: rgb(199, 15, 15); text-decoration: underline;
+}
+.modal-bigtap-mode .modal-body .mode-loading {
+    margin: 20px 0px;
+}
+.modal-bigtap-mode .modal-body .input-text {
+    margin: 0px auto 20px; display: block;
+}
+.modal-bigtap-mode .modal-body .mode-action {
+    margin: 20px 0px;
+}
+.modal-bigtap-mode .modal-body .mode-con {
+    font-size: 16px; margin-bottom: 20px;
+}
+.modal-bigtap-mode .modal-body .mode-con .q {
+    margin-bottom: 10px;
+}
+.modal-bigtap-mode .modal-body .mode-con .d {
+    height: 40px;
+}
+.modal-bigtap-mode .modal-body .mode-con .refresh {
+    font-size: 12px;
+}
+.modal-bigtap-mode .modal-body .mode-con .img-q span {
+    margin: 0px 5px; vertical-align: middle; display: inline-block;
+}
+.modal-bigtap-mode .modal-body .mode-con .img-d {
+    margin: 10px auto;
+}
+.modal-bigtap-mode .modal-body .tip {
+    color: rgb(199, 15, 15);
+}
+.modal-bigtap-soldout {
+    width: 800px; height: 600px; margin-top: -300px; margin-left: -400px;
+}
+.modal-bigtap-soldout .modal-body {
+    padding: 0px;
+}
+.modal-bigtap-soldout .modal-body .content {
+    padding: 60px 0px;
+}
+.modal-bigtap-soldout .modal-body .content .mitu {
+    background: url("http://c1.mifile.cn/f/i/16/base/bigtap-mitu-faild.png") no-repeat; width: 240px; height: 240px; margin-right: 8px; margin-left: 110px; float: left;
+}
+.modal-bigtap-soldout .modal-body .content .title {
+    margin: 75px 0px 0px; line-height: 48px; font-size: 36px; float: left; _display: inline;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods .hd {
+    text-align: center; margin-bottom: 34px; border-top-color: rgb(224, 224, 224); border-top-width: 1px; border-top-style: solid;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods .hd span {
+    padding: 0px 24px; top: -12px; color: rgb(117, 117, 117); line-height: 24px; font-size: 18px; display: inline-block; position: relative; background-color: rgb(255, 255, 255);
+}
+.modal-bigtap-soldout .bigtap-recomment-goods ul {
+    list-style: none; margin: 0px; padding: 0px;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li {
+    width: 50%; float: left;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .pic {
+    width: 130px; height: 130px; margin-right: 12px; margin-left: 44px; float: left; background-color: rgb(238, 238, 238);
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .pic img {
+    width: 130px; height: 130px;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .info {
+    color: rgb(51, 51, 51); float: left;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .info .title {
+    margin: 5px 0px 8px; font-size: 18px; font-weight: normal;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .info .desc {
+    margin: 0px 0px 15px; width: 170px; height: 40px; line-height: 20px; overflow: hidden; _zoom: 1;
+}
+.modal-bigtap-soldout .bigtap-recomment-goods li .info .link {
+    color: rgb(255, 103, 0);
+}
+.modal-bigtap-soldout-norec {
+    height: 480px; margin-top: -240px;
+}
+.modal-bigtap-soldout-norec .modal-body .bigtap-recomment-goods {
+    display: none;
+}
+.modal-bigtap-soldout-norec .modal-body .content {
+    margin-top: 60px;
+}
+.modal-user-risk .modal-bd {
+    text-align: center;
+}
+.modal-user-risk .modal-bd .title {
+    margin: 0px 0px 5px; color: rgb(117, 117, 117); font-size: 20px; font-weight: normal;
+}
+.modal-user-risk .modal-bd .desc {
+    margin: 0px 0px 8px; color: rgb(117, 117, 117);
+}
+.modal-user-risk .modal-bd .link {
+    color: rgb(255, 103, 0);
+}
+.modal-user-risk .modal-bd .form-section {
+    margin: 20px auto; width: 310px;
+}
+.modal-user-risk .modal-bd .form-section .input-text {
+    width: 276px;
+}
+.modal-user-risk .modal-bd .form-section .btn {
+    padding: 0px 8px; border: currentColor; top: 0px; width: auto; height: 40px; right: 0px; line-height: 40px; position: absolute;
+}
+.modal-user-risk .modal-bd .form-section .btn-get {
+    color: rgb(255, 103, 0);
+}
+.modal-user-risk .modal-bd .form-section .btn-coutdown {
+    color: rgb(176, 176, 176);
+}
+.modal-user-risk .modal-bd .tip-msg {
+    color: rgb(229, 57, 53);
+}
+.drag-captcha-box {
+    border-radius: 5px; overflow: hidden; _zoom: 1;
+}
+.drag-captcha-piece {
+    left: 0px; position: absolute; background-repeat: no-repeat;
+}
+.drag-captcha-bg-box {
+    left: 0px; top: 0px; position: absolute; z-index: 1;
+}
+.drag-captcha-refresh {
+    top: 100px; right: 10px; color: rgb(255, 255, 255); font-size: 16px; position: absolute; z-index: 2; cursor: pointer;
+}
+.drag-captcha-control {
+    border-radius: 15px; height: 30px; line-height: 30px; margin-top: 24px; margin-bottom: 5px; position: relative; background-image: linear-gradient(to right, rgb(186, 186, 186), rgb(149, 149, 149));
+}
+.drag-captcha-control .handle {
+    background: url("http://c1.mifile.cn/f/i/16/base/drag-captcha-handle.png") no-repeat rgb(238, 238, 238); left: 0px; top: -5px; width: 40px; height: 40px; position: absolute; cursor: pointer; box-shadow: 0px 20px 20px rgba(0,0,0,0.19); -webkit-box-shadow: 0 20px 20px rgba(0, 0, 0, 0.19);
+}
+.drag-captcha-control .handle-active {
+    background-position: 0px -40px;
+}
+.drag-captcha-msg {
+    text-align: center; color: rgb(255, 255, 255); opacity: 0.63;
+}
+.drag-captcha-loading {
+    border-radius: 5px; left: 50%; top: 25px; width: 80px; height: 80px; text-align: center; margin-left: -40px; display: none; position: absolute; z-index: 4; background-color: rgba(255, 255, 255, 0.8);
+}
+.drag-captcha-loading .iconfont {
+    margin: 15px auto 5px; color: rgb(66, 66, 66); font-size: 20px; display: block;
+}
+.drag-captcha-loading-backdrop {
+    left: 0px; top: 0px; width: 100%; height: 130px; display: none; position: absolute; z-index: 3; background-color: rgba(0, 0, 0, 0.4);
+}
+.modal-addcart-captcha-drag {
+    border-radius: 5px; width: 280px; height: 264px; margin-top: -132px; margin-left: -140px;
+}
+.modal-addcart-captcha-drag .modal-header {
+    padding: 8px 15px;
+}
+.modal-addcart-captcha-drag .close {
+    top: 8px;
+}
+.modal-addcart-captcha-drag .modal-body {
+    padding: 15px; text-align: center;
+}
+.modal-addcart-captcha-drag .drag-captcha-wrapper {
+    margin: 0px auto;
+}
